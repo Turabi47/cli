@@ -29,7 +29,7 @@ void searchWikipedia(List<String>? arguments) {
   }
 
   print('Looking up articles about "$articleTitle". Please wait.');
-  print('Here ya go!');
+  print('Here ya go!!');
   print('(Pretend this is an article about "$articleTitle")');
 }
 
